@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.rajamouli.online
+REDIS_HOST: redis.rajamouli.online
+CATALOGUE_HOST: catalogue.rajamouli.online
+CART_HOST: cart.rajamouli.online
+USER_HOST: user.rajamouli.online
+RABBITMQ_HOST: rabbitmq.rajamouli.online
+MYSQL_HOST: mysql.rajamouli.online
+SHIPPING_HOST: shipping.rajamouli.online
+PAYMENT_HOST: payment.rajamouli.online
